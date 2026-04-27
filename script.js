@@ -110,7 +110,6 @@ const enDict = {
   try {
     const saved = localStorage.getItem('felix-lang');
     if (saved === 'de' || saved === 'en') initial = saved;
-    else if ((navigator.language || '').toLowerCase().startsWith('en')) initial = 'en';
   } catch (_) {}
   setLang(initial);
 })();
