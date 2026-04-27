@@ -18,7 +18,7 @@ const enDict = {
 
   'stat1-label': 'Landlords taken off the streets',
   'stat2-num': '€20,000',
-  'stat2-label': 'Recovered for tenants',
+  'stat2-label': 'Recovered in rent',
   'stat3-label': 'Win rate on Altbau cases',
   'stat4-num': '€0',
   'stat4-label': 'Risk to you',
@@ -28,8 +28,8 @@ const enDict = {
     'Stucco above.<br/>Parquet below.<br/>' +
     '<span class="hl">Profiteering on the bill.</span>',
   'right-lead':
-    'If you live in a Berlin Altbau owned by a property company, the odds you’re ' +
-    'overpaying are high. Felix reads your contract, runs the numbers against the Mietspiegel ' +
+    'If you live in a Berlin Altbau, the odds you’re overpaying are high. ' +
+    'Felix reads your contract, runs the numbers against the Mietspiegel ' +
     '— and brings back what is yours. <strong>No ifs. No buts.</strong>',
 
   'cap1': 'LIVING ROOM · Prenzlauer Berg · <span class="case-won">CASE WON</span>',
